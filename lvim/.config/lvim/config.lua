@@ -91,5 +91,3 @@ lvim.plugins = {
 -- custom icons
 lvim.icons.ui.Folder = "󰉋"
 lvim.builtin.nvimtree.setup.renderer.icons.glyphs.folder.default = lvim.icons.ui.Folder
-
-vim.cmd("au VimLeave * set guicursor=a:ver100")
