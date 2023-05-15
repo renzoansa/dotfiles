@@ -1,8 +1,8 @@
 font:
   normal:
-    family: Caskaydia Cove Nerd Font
+    family: JetBrains Mono
     style: bold
-  size: 12
+  size: 10
       
 # Nightfox Alacritty Colors
 # Style: carbonfox
